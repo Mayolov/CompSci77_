@@ -1,6 +1,7 @@
 # Mayolo Valencia
 # This program takes an input then converts the float input
 # into a simple model number.
+
 def convert_to_fp(num):
     # Check if the number is negative
     sign_bit = '1' if num < 0 else '0'
